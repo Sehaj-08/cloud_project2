@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Benchmark outputs
+benchmark-results/
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Terraform (future phase)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log

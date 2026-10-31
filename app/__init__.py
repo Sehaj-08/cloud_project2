@@ -1,0 +1,1 @@
+"""AutoScaleLab application package."""
